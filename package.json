@@ -1,0 +1,23 @@
+{
+  "name": "Constructor-Word-Game",
+  "version": "1.0.0",
+  "description": "Week 13 Homework Submission - Create command line word game using Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mundo75/Constructor-Word-Game.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mundo75/Constructor-Word-Game/issues"
+  },
+  "homepage": "https://github.com/Mundo75/Constructor-Word-Game#readme",
+  "dependencies": {
+    "inquirer": "^6.3.1"
+  }
+}
